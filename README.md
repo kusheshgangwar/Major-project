@@ -49,4 +49,4 @@ segments, inventory risks, discount effects, seasonal patterns and profitability
 Build an interactive analytics system that converts retail transaction data
 into KPIs, visual insights, comparisons and a machine-learning sales forecast.
 
-....
+[Github Link](https://github.com/kusheshgangwar/Major-project)
